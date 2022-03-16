@@ -26,6 +26,6 @@
    <a href="mailto:mcgivergamers@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   
- ![Snake animation](https://github.com/mcgiver121/mcgiver121/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Mcgiver121/Mcgiver121/blob/output/github-contribution-grid-snake.svg)
     
 </div>
