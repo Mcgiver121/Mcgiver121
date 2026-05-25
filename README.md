@@ -1,6 +1,4 @@
-- 👋 Olá visitante, me chamo Gabriel Mcgiver
 - 👀 E quem disse que a curiosidade matou o gato?
-- 🌱 Estudando JavaScript,C#,.NET e Visual Basic
 - 📮 Contate-me no email: mcgiver121@hotmail.com 
 
 ##
